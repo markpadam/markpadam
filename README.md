@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markpadam
-- 👀 I’m interested in IaC
+- 👀 I’m interested in IaC, Devops, Terraform & Kubernetes
 - 🌱 I’m currently learning Bicep
 - 📫 How to reach me markpadam@hotmail.com
 
