@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markpadam
-- 🧰 I’m interested in IaC, Devops & Cyber Security
+- 🧰 I’m interested in DevOps & Cyber Security
 - 🌱 I’m currently learning Bicep & Python
 - 📫 How to reach me markpadam@hotmail.com
 
