@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Bicep & Python
 - 📫 How to reach me markpadam@hotmail.com
 
-
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mk4uk.png" alt="TryHackMe">
 - 👀 Checkout my TryHackMe Profile: https://tryhackme.com/p/mk4uk
 
 <!---
